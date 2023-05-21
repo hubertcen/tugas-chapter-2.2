@@ -1,0 +1,10 @@
+h1,
+h2 {
+  text-align: center;
+}
+
+.container {
+  background-color: white;
+  display: flex;
+  justify-content: end;
+}
